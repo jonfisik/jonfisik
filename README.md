@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![python](https://github.com/jonfisik/ScriptsPython/blob/master/imagens/giphy.gif)
+![python](https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1.gif)
 -->
 - :snake: I'm currently learning Python.
 - :zap: I'm currently working like physic teacher.
@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 - :atom: Ask me about physics and mathematics.
 - 😄 Fun fact...
 
-
-![atomo](https://github.com/jonfisik/ScriptsPython/blob/master/imagens/atom1.gif) ![python](https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1.gif)
+![atomo](https://github.com/jonfisik/ScriptsPython/blob/master/imagens/atom1.gif)                                                                                                   ![python](https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1pequeno.gif)
