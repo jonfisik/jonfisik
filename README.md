@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 😄 Fun fact...
 
 
-![python](https://github.com/jonfisik/ScriptsPython/blob/master/imagens/giphy.gif)      ![atomo](https://github.com/jonfisik/ScriptsPython/blob/master/imagens/atom1.gif)
+![atomo](https://github.com/jonfisik/ScriptsPython/blob/master/imagens/atom1.gif) ![python](https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1.gif)
