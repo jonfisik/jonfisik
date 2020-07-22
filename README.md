@@ -2,7 +2,6 @@
 I'm Jonatan Paschoal and...
 <!--
 **jonfisik/jonfisik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -20,6 +19,6 @@ Here are some ideas to get you started:
 - :atom: Ask me about physics and mathematics.
 - 😄 Fun fact...
 
-<img align="left" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/atom1.gif" width="250">
-<img align="right" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1pequeno.gif" width="250">
+<img align="left" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/atom1.gif" width="200">
+<img align="right" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1pequeno.gif" width="200">
 
