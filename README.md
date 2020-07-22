@@ -10,13 +10,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![python](https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1.gif)
+![atomo](https://github.com/jonfisik/ScriptsPython/blob/master/imagens/atom1.gif)
+![python](https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1pequeno.gif)
 -->
 - :snake: I'm currently learning Python.
 - :zap: I'm currently working as physic teacher.
+<img align="right" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/atom1.gif" width="100">
 - :man_scientist: I'm looking to collaborate on scientific computing or data analysis projects.
 - :+1: I'm looking for a new job.
 - :atom: Ask me about physics and mathematics.
 - 😄 Fun fact...
 
-![atomo](https://github.com/jonfisik/ScriptsPython/blob/master/imagens/atom1.gif)
-![python](https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1pequeno.gif)
+<img align="center" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1pequeno.gif" width="200">
+
