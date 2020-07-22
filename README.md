@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 - :snake: I'm currently learning Python.
 - :zap: I'm currently working as physic teacher.
-<img align="right" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/atom1.gif" width="100">
 - :man_scientist: I'm looking to collaborate on scientific computing or data analysis projects.
 - :+1: I'm looking for a new job.
 - :atom: Ask me about physics and mathematics.
 - 😄 Fun fact...
 
-<img align="center" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1pequeno.gif" width="200">
+<img align="left" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/atom1.gif" width="250">
+<img align="right" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1pequeno.gif" width="250">
 
