@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - :man_scientist: I'm looking to collaborate on scientific computing or data analysis projects.
 - :+1: I'm looking for a new job.
 - :atom: Ask me about physics and mathematics.
+- :cow: http://vaka.me/646581
 - 😄 Fun fact...
 
 <p>
