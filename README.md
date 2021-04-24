@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-<img align="right" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1pequeno.gif" width="150">
+<img align="right" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1pequeno.gif" width="100">
 </p>
