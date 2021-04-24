@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 <img style="float: left;" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/atom1.gif" width="150">
 
-<img style="float: left;" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1pequeno.gif" width="100">
+<img style="float: left;" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1pequeno.gif" width="150">
