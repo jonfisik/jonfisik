@@ -26,5 +26,9 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-<img align="right" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1pequeno.gif" width="200">
+  <img align="center" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/C.jpg" width="200">
+</p>
+
+<p>
+<img align="right" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1pequeno.gif" width="150">
 </p>
