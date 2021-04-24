@@ -21,14 +21,8 @@ Here are some ideas to get you started:
 - :cow: Help me - http://vaka.me/646581 or pix - jonfisik@hotmail.com
 - 😄 Fun fact...
 
-<p>
-  <img align="left" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/C.jpg" width="150">
-</p>
+<img style="float: left;" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/C.jpg" width="150">
 
-<p>
-  <img align="center" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/atom1.gif" width="150">
-</p>
+<img style="float: left;" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/atom1.gif" width="150">
 
-<p>
-<img align="right" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1pequeno.gif" width="100">
-</p>
+<img style="float: left;" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1pequeno.gif" width="100">
