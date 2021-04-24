@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 - 😄 Fun fact...
 
 <p>
-  <img align="left" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/atom1.gif" width="200">
+  <img align="left" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/C.jpg" width="150">
 </p>
 
 <p>
-  <img align="center" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/C.jpg" width="200">
+  <img align="center" src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/atom1.gif" width="150">
 </p>
 
 <p>
