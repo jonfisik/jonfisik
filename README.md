@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - 😄 Fun fact...
 
 <p>
-<img aling=left src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/C.jpg" width="150">
-
 <img aling=center src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/atom1.gif" width="150">
+  
+<img aling=left src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/C.jpg" width="150">
 
 <img aling=right src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1pequeno.gif" width="150">
 
