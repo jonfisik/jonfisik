@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - :snake: I'm currently learning Python and Fortran.
 - :man_scientist: I'm looking to collaborate on scientific computing or data analysis projects.
 - :+1: I'm looking for a new job.
-- :atom: Ask me about physics and mathematics.
+- :atom: Ask me about physics or mathematics.
 - :cow: Help - me Pix - jonfisik@hotmail.com
 - 😄 Fun fact...
 
