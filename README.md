@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 ![atomo](https://github.com/jonfisik/ScriptsPython/blob/master/imagens/atom1.gif)
 ![python](https://github.com/jonfisik/ScriptsPython/blob/master/imagens/py1pequeno.gif)
 -->
-- :snake: I'm currently learning Python.
-- :zap: I'm currently working as physic teacher.
+- :snake: I'm currently learning Python and Fortran.
 - :man_scientist: I'm looking to collaborate on scientific computing or data analysis projects.
 - :+1: I'm looking for a new job.
 - :atom: Ask me about physics and mathematics.
